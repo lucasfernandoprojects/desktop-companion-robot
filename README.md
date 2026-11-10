@@ -2,7 +2,7 @@
 
 ![Photo of the desktop companion robot over a green background.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-1.jpg)
 
-*I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/).*
+*I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/watch?v=I87P49bGDW8).*
 
 Build your own cute desktop companion robot using an ESP32, a small display, a touch sensor, and a passive buzzer!
 
