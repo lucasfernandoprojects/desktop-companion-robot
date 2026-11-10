@@ -167,7 +167,7 @@ There are two versions of the enclosure design:
 
 During development, I had to switch from the ESP32-S3 Super Mini to a more standard ESP32 development board. That's why the original enclosure has an opening that isn't used in the final version.
 
-Both designs are included so you can choose the one that better suits your hardware.
+I just included the updated version on this repository, but you are free to download and modify it the way you want.
 
 ## Customization
 
