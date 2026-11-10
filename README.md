@@ -47,8 +47,9 @@ To build this project, you'll need the following components:
 | I2C LCD display | Displays the robot's facial expressions |
 | TTP223 touch sensor | Detects touch interactions |
 | Passive buzzer | Plays melodies and sound effects |
-| Li-ion battery | Powers the robot |
+| Li-ion battery 3.7V 500mAh| Powers the robot |
 | On/off switch | Turns the robot on and off |
+|M1 3mm screws|Attach the back door to the main structure|
 | TP4056 charging module (optional) | Required if your ESP32 board doesn't include a compatible battery charging circuit |
 | Wires and heat-shrink tubing | For electrical connections and insulation |
 
