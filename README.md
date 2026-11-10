@@ -114,6 +114,14 @@ Finally, download the 3D-printing files and assemble the electronics inside the 
     <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-23.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
+Additionally, you can follow the schematics below if you need additional help.
+
+![Schematics of the circuit - ESP32 with battery charging.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/schematics/schematics-esp32-with-battery-charging.png
+)
+
+![Schematics of the circuit - ESP32 without battery charging.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/schematics/schematics-esp32-with-battery-charging.png
+)
+
 ## Programming
 
 To upload the firmware to your ESP32:
@@ -171,7 +179,7 @@ The Arduino sketch is a good starting point if you want to add new behaviors or 
 
 ## Sponsor
 
-![Screenshot of Justway website - navigation menu.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-24.jpg)
+![Screenshot of Justway website - navigation menu.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-24.png)
 
 This project was sponsored by **JustWay**, one of the best providers of manufacturing services for mechanical parts.
 
@@ -179,9 +187,9 @@ JustWay offers a wide range of manufacturing solutions, including 3D printing, i
 
 Their website also features an instant quote tool, allowing you to estimate manufacturing costs without waiting for a manual quotation. Their ordering system is available 24 hours a day, 7 days a week.
 
-![Screenshot of Justway website - services.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-25.jpg)
+![Screenshot of Justway website - services.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-25.png)
 
-![Screenshot of Justway website - quote tool.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-26.jpg)
+![Screenshot of Justway website - quote tool.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-26.png)
 
 A big thank you to JustWay for sponsoring this project and helping make STEM education more accessible!
 
