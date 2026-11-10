@@ -114,12 +114,12 @@ Finally, download the 3D-printing files and assemble the electronics inside the 
     <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-23.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
-Additionally, you can follow the schematics below if you need additional help.
+Additionally, you can follow the schematics below if you need more help wiring the components.
 
 ![Schematics of the circuit - ESP32 with battery charging.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/schematics/schematics-esp32-with-battery-charging.png
 )
 
-![Schematics of the circuit - ESP32 without battery charging.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/schematics/schematics-esp32-with-battery-charging.png
+![Schematics of the circuit - ESP32 without battery charging.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/schematics/schematics-esp32-without-battery-charging.png
 )
 
 ## Programming
