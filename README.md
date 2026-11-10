@@ -1,6 +1,6 @@
 # Cute Desktop Companion Robot
 
-![Photo of the desktop companion robot over a green background.](https://github.com/)
+![Photo of the desktop companion robot over a green background.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-1.jpg)
 
 *I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/).*
 
@@ -8,23 +8,23 @@ Build your own cute desktop companion robot using an ESP32, a small display, a t
 
 This little robot is designed to sit on your desk and interact with you throughout the day. It displays different facial expressions, plays cheerful melodies, and has a simple personality system that changes depending on how often you interact with it.
 
-![Photo of the desktop companion robot over a desktop table.](https://github.com/)
+![Photo of the desktop companion robot over a desktop table.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-2.jpg)
 
-![Photo of the desktop companion robot over a desktop table - close view.](https://github.com/)
+![Photo of the desktop companion robot over a desktop table - close view.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-3.jpg)
 
 The more you pet it, the happier it becomes. Leave it alone for too long, and it'll gradually get sleepy before eventually falling asleep to save battery power. Touch it again, and it'll wake up!
 
 This is a fully open-source project, so feel free to download the files, build your own robot, and customize it however you like.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-4.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-5.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-6.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-7.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-8.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-9.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-10.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-11.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
 ## Features
@@ -53,16 +53,16 @@ To build this project, you'll need the following components:
 | Wires and heat-shrink tubing | For electrical connections and insulation |
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-12.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-13.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-14.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-15.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-16.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-17.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-18.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-19.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-27.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-28.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
 **Important:** Check the specifications of your ESP32 board before connecting a battery. Some development boards include a built-in battery charging circuit, while others don't. Make sure the battery voltage and connections are compatible with your board.
@@ -108,10 +108,10 @@ Once all the components are connected, solder the wires and use heat-shrink tubi
 Finally, download the 3D-printing files and assemble the electronics inside the enclosure.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-1.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/water-quality-analyzer/blob/main/8-photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-20.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-21.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-22.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-23.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
 ## Programming
@@ -171,7 +171,7 @@ The Arduino sketch is a good starting point if you want to add new behaviors or 
 
 ## Sponsor
 
-![Screenshot of Justway website - navigation menu.](https://github.com/)
+![Screenshot of Justway website - navigation menu.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-24.jpg)
 
 This project was sponsored by **JustWay**, one of the best providers of manufacturing services for mechanical parts.
 
@@ -179,9 +179,9 @@ JustWay offers a wide range of manufacturing solutions, including 3D printing, i
 
 Their website also features an instant quote tool, allowing you to estimate manufacturing costs without waiting for a manual quotation. Their ordering system is available 24 hours a day, 7 days a week.
 
-![Screenshot of Justway website - services.](https://github.com/)
+![Screenshot of Justway website - services.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-25.jpg)
 
-![Screenshot of Justway website - quote tool.](https://github.com/)
+![Screenshot of Justway website - quote tool.](https://github.com/lucasfernandoprojects/desktop-companion-robot/blob/main/photos/photo-26.jpg)
 
 A big thank you to JustWay for sponsoring this project and helping make STEM education more accessible!
 
